@@ -48,10 +48,10 @@ bool playerwin(char arr[9],char player1,char player2){
     else if((arr[2]!=' ')&& (arr[2]==arr[5])&&(arr[5]==arr[8])){
         arr[2]== player1 ? cout<<"PLAYER 1 WIN !!\n" : cout<<"PLAYER 2 WIN !!\n"; 
     }
-    else if((arr[0]!=' ')&& (arr[0]==arr[5])&&(arr[5]==arr[8])){
+    else if((arr[0]!=' ') && (arr[0]==arr[4])&&(arr[4]==arr[8])){
         arr[0]== player1 ? cout<<"PLAYER 1 WIN !!\n" : cout<<"PLAYER 2 WIN !!\n"; 
     }
-    else if((arr[2]!=' ')&& (arr[2]==arr[5])&&(arr[5]==arr[6])){
+    else if((arr[2]!=' ')&& (arr[2]==arr[4])&&(arr[4]==arr[6])){
         arr[2]== player1 ? cout<<"PLAYER 1 WIN !!\n" : cout<<"PLAYER 2 WIN !!\n"; 
     }
     else{
