@@ -1,4 +1,4 @@
-# CODSOFT
+# DSA PROJECTS
 <br>
 1️⃣TASK 1
 <br>
